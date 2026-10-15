@@ -1,23 +1,19 @@
-<p align="center">
-  <img src="./ai_customer_feedback_analyzer_landscape.gif" width="100%" alt="AI Customer Feedback Analyzer">
-</p>
-
 # AI Customer Feedback Analyzer
 
 An NLP-powered web application that analyzes customer reviews using a pretrained Hugging Face Transformer model. The application supports individual sentiment predictions as well as bulk customer-feedback analysis through CSV uploads.
 
 ## 📑 Table of Contents
 
-- [✨ Features](#-features)
-- [🏗️ System Architecture](#-system-architecture)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📂 Project Structure](#-project-structure)
-- [⚙️ Installation](#️-installation)
-- [📊 CSV Format](#-csv-format)
-- [🔍 How It Works](#-how-it-works)
-- [⚠️ Limitations](#️-limitations)
-- [🚀 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
+- [Features](#features)
+- [System Architecture](#system-architecture)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [CSV Format](#csv-format)
+- [How It Works](#how-it-works)
+- [Limitations](#limitations)
+- [Future Enhancements](#future-enhancements)
+- [License](#license)
 
 ## Features
 
