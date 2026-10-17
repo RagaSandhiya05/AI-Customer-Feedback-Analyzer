@@ -1,6 +1,14 @@
+<img width="2172" height="407" alt="AI Customer Feedback Analyzer Banner (1)" src="https://github.com/user-attachments/assets/5085bbd5-7bf1-4229-9823-eb89fbce27f1" />
+
 # AI Customer Feedback Analyzer
 
 An NLP-powered web application that analyzes customer reviews using a pretrained Hugging Face Transformer model. The application supports individual sentiment predictions as well as bulk customer-feedback analysis through CSV uploads.
+
+
+## 🚀 Live Demo
+
+**Try the application here:** [AI Customer Feedback Analyzer](https://ragasandhiya05-ai-customer-feedback-analyzer-app-dlfxw6.streamlit.app/)
+
 
 ## 📑 Table of Contents
 
@@ -105,7 +113,6 @@ review
 - Customer feedback topic extraction
 - Sentiment trends over time
 - Advanced analytics dashboard
-- Deployment on Streamlit Community Cloud
 
 ## License
 
